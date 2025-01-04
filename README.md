@@ -1,14 +1,11 @@
+# Patched ApkUrlGrep
+This version aims to update speed, regex, and installation process to be more 2025
 # ApkUrlGrep
 Tool that allow extract endpoints from APK files
 ![alt text](https://i.ibb.co/V3nFRwJ/image-2020-05-06-21-30-30.png)
 
 ## Install
-1) Install `apkurlgrep`
-```
-▶ go get -u github.com/ndelphit/apkurlgrep
-```
-2) Install [apktool](https://ibotpeaches.github.io/Apktool/install/)
-
+wip
 
 ## Usage
 
